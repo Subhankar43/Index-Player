@@ -1,0 +1,40 @@
+body{
+    background-color: #00203FFF;
+}
+.btn-outline {
+    color: #4fbfa8;
+    background-color: #ffffff;
+    border-color: #4fbfa8;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+  }
+  .btn-outline {
+    color: #4fbfa8;
+    background-color: #ffffff;
+    border-color: #4fbfa8;
+    font-weight: bold;
+    border-radius: 0;
+  }
+  .btn-outline:hover,
+  .btn-outline:active,
+  .btn-outline:focus,
+  .btn-outline.active {
+    background: #4fbfa8;
+    color: #ffffff;
+    border-color: #4fbfa8;
+    
+  }
+  #videoplayer{
+    --plyr-color-main: #e657ff;
+  }
+
+  #videourl::placeholder {
+    color: white;
+  }
+  #playvideo
+  {
+    margin-top: 20px;
+  }
+  .center:hover{
+    color: white;
+  }
