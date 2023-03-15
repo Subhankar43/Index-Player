@@ -9,7 +9,7 @@ If you uses google drive index then its made for you. If you don't know about go
 - Gonna come with new UI very soon.
 
 # **Work**
-- If you have google drive index, then just copy the link of the video and paste it over here <a href="" target="_blank"> Index Player</a>. Enjoy your online streaming.
+- If you have google drive index, then just copy the link of the video and paste it over here <a href="https://vortx-player.netlify.app" target="_blank"> <b>Index Player</b></a>. Enjoy your online streaming.
 
 # **Screenshot**
 In Desktop View:
@@ -26,7 +26,7 @@ In Mobile View:
 https://boom-boom.laden.workers.dev/0:/Minnal.Murali.2021.720p.mp4
 ``` 
 
-- Click On <a href="">Index Player</a> and the page will look like this
+- Click On <a href="https://vortx-player.netlify.app"><b>Index Player</b></a> and the page will look like this
 
 
 
