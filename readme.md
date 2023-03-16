@@ -18,7 +18,7 @@ If you uses google drive index then its made for you. If you don't know about go
 # **Work**
 - If you have google drive index, then just copy the link of the video and paste it over here <a href="https://vortx-player.netlify.app" target="_blank"> <b>Index Player</b></a>. Enjoy your online streaming.
 
-# **Screenshot**
+# **Screenshots**
 In Desktop View:
 
 <img src="img.jpg" style="margin-top:20px; margin-bottom:70px;">
