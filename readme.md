@@ -6,11 +6,19 @@ If you uses google drive index then its made for you. If you don't know about go
 - Very rough code for now, going to fix it soon.
 - Minor changes in the UI.
 - Gonna come with new UI very soon.
+- Fully responsive with toggle button.
+
+# **Languages Used**
+- HTML
+- CSS
+- Js
+- Bootstrap
+- Multiple CDN (Content Delivery Network) added by <a href="https://twitter.com/ParveenBhadoo"><b>Bhadoo</b></a> X <a href="https://telegram.dog/HashHackers"><b>Hash Hackers</b></a>
 
 # **Work**
 - If you have google drive index, then just copy the link of the video and paste it over here <a href="https://vortx-player.netlify.app" target="_blank"> <b>Index Player</b></a>. Enjoy your online streaming.
 
-# **Screenshot**
+# **Screenshots**
 In Desktop View:
 
 <img src="images/img.jpg">
