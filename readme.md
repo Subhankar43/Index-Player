@@ -1,4 +1,4 @@
-<img src="base-octocat.svg">
+<img src="images/base-octocat.svg">
 
 # **Index Player**
 If you uses google drive index then its made for you. If you don't know about google drive index then don't forget to check ta credits part.
@@ -13,11 +13,11 @@ If you uses google drive index then its made for you. If you don't know about go
 # **Screenshot**
 In Desktop View:
 
-<img src="img.jpg" style="margin-top:20px; margin-bottom:70px;">
+<img src="images/img.jpg">
 
 In Mobile View:
 
-<img src="img2.jpg" style="margin-top:20px; margin-bottom:30px;margin-left:200px;">
+<img src="images/img2.jpg" style="margin-top:20px; margin-bottom:30px;margin-left:200px;">
 
 # **How to Use It**
 - First copy the link 
@@ -29,17 +29,17 @@ https://boom-boom.laden.workers.dev/0:/Minnal.Murali.2021.720p.mp4
 
 
 
-<img src="img.jpg" style="margin-top:20px; margin-bottom:70px;">
+<img src="images/img.jpg" style="margin-top:20px; margin-bottom:70px;">
 
 - Then just paste the copied link.
 
 
-<img src="img3.jpg">
+<img src="images/img3.jpg">
 
 
 - Click on Play & Enjoy :)....
 
-<img src="img4.jpg">
+<img src="images/img4.jpg">
 
 # **Credit**
 - <a href="https://gitlab.com/GoogleDriveIndex/Google-Drive-Index"> Google Drive Index </a>
