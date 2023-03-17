@@ -99,24 +99,25 @@ body{
   -webkit-text-fill-color: transparent; 
   font-size: 20px;
 }
-.credit2{
-  font-size: 15px;
-}
+
 .vortx2{
  text-decoration: none;
  background: linear-gradient(to right, #833AB4, #FD1D1D, #F77737, #FCAF45);
  -webkit-background-clip: text;
- -webkit-text-fill-color: transparent;font-size: 15px;
+ -webkit-text-fill-color: transparent;
+ font-size: 15px;
 }
 .hashhackers{
   color:black;
   background: #0088cc;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; 
+  font-size: 15px;
 }
 .bhadoo2{
   color:black;
   background: #00acee;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; 
+  font-size: 15px;
 }
