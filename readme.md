@@ -1,9 +1,9 @@
 <img src="images/base-octocat.svg">
 
 # **Index Player**
-If you uses google drive index then its made for you. If you don't know about google drive index then don't forget to check ta credits part.
+If you uses google drive index then its made for you. If you don't know about google drive index then don't forget to check the credits part.
 
-- Very rough code for now, going to fix it soon.
+- Code is pretty much clean now.
 - Minor changes in the UI.
 - Gonna come with new UI very soon.
 - Fully responsive with toggle button.
