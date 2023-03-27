@@ -1,4 +1,3 @@
-<img src="images/base-octocat.svg">
 
 # **Index Player**
 If you uses google drive index then its made for you. If you don't know about google drive index then don't forget to check the credits part.
